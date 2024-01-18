@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500;1,600&display=swap');
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  margin:20px 80px 20px 80px;
+}
+.navbar-items {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  gap: 40px;
+}
+.login-btn {
+  width: 75px;
+  background-color: #d01c28;
+  color: white;
+  height: 31px;
+}
+.hero-page {
+  display: flex;
+  margin-left: 190px;
+  margin-right: 50px;
+}
+.hero-content h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  max-width: 595px;
+  max-height: 306px;
+  font-size: 90px;
+}
+.shop-now {
+  width: 150px;
+  background-color: #d01c28;
+  color: white;
+  height: 41px;
+}
+.category-btn {
+  width: 141px;
+  height: 41px;
+  background: transparent;
+  color: black;
+  margin-left: 40px;
+}
+.hero-content .hero-content-p {
+  max-width: 404px;
+}
+.sidepageShoe {
+  margin-top: 150px;
+  margin-left: 150px;
+}
+button{
+  cursor: pointer;
+}
+.flipkart-image{
+  margin-right: 20px;
+}
+.hero-footer{
+  background-color: black;
+  height: 300px;
+  width: 100%;
+}
+
+.hero-footer ul li{
+color: #fff;
+margin-top: 120px; 
+ margin-left: 300px;
+
+}
+.hero-footer ul{
+  list-style: none;
+  display: flex ;
+  }
+
